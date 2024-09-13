@@ -1,8 +1,8 @@
-@tailwind base;
+/* @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-:root {
+ */
+/* :root {
   --background: #ffffff;
   --foreground: #171717;
 }
@@ -24,4 +24,11 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+} */
+
+/* Reset cơ bản */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }

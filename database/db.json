@@ -1,0 +1,31 @@
+[
+  {
+    "id": 2,
+    "productName": "xoài",
+    "price": 10000,
+    "image": "aaa",
+    "quantity": 5,
+    "title": "trái có một ngàn từ"
+  },
+  {
+    "productName": "dưa hấu",
+    "image": "hhh",
+    "price": "10000",
+    "quantity": "0",
+    "id": 5
+  },
+  {
+    "productName": "bơ",
+    "image": "abc",
+    "price": "10000",
+    "quantity": 30,
+    "id": 3
+  },
+  {
+    "productName": "cam",
+    "image": "xyz",
+    "price": "10000",
+    "quantity": "2",
+    "id": 6
+  }
+]
